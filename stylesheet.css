@@ -48,7 +48,7 @@ section {
 }
 
 .hero {
-    background-image: url(/img/cover.jpg);
+    background-image: url(https://github.com/shinnosuke0203/Bootstrap5/blob/main/img/cover.jpg?raw=true);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
